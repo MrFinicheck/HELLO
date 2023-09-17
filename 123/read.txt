@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dsds fgs privet 1111111111
+=======
+dsds fgs gkgkgrk HAHAHAHAHA
+>>>>>>> f4a47019ce7deea30ad39c1b6c4321cdd2a17793
